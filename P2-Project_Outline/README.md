@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+A web application with the ability to look for verterinary facilities and animal hospitals. With the ability to have community inputted information and verifiable information from a location representative. 
+
+Lists can be narrowed down by different categories as well as shown in map form. 
+
 ### Features
-Include Features here
+
+1. Easy search tool to find local animal care.
+2. Verifiable information on each location, with proper linkage to their own sites. And the ability to add new ones. 
+3. User creation to both be able to verify informaiton and leave reviews of each site. 
+
+
 ### Technologies
-Include Technologies here
+* Java 
+* Spring Boot
+* MySQL 
+* Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+* I will need to learn how to add a map api to a site using spring and thymeleaf templates. 
+
 ### Project Tracker
-Link to your Trello board here
+[Trello Board](https://trello.com/b/ORoboRNu/launch-code-project "Trello Board")
